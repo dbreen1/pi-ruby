@@ -13,7 +13,6 @@ Gem::Specification.new do |s|
   ]
   s.homepage    = "https://github.com/pi-apps/pi-ruby"
   s.license     = "PiOS"
-  s.add_runtime_dependency "stellar-sdk", git: "git@github.com:dbreen1/ruby-stellar-sdk.git"
   s.add_runtime_dependency "faraday", "~> 1.6.0"
   s.metadata = {
     "documentation_uri" => "https://github.com/pi-apps/pi-ruby",
